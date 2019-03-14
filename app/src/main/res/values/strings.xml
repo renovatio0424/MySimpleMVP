@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySimpleMVP</string>
+    <string name="desc_main_actiivty">Hi I\'m MainActivity</string>
+    <string name="go_to_next">GO TO NEXT</string>
+    <string name="empty_string">you must fill out edit text</string>
+    <string name="go_to_main">go to main activity</string>
+</resources>
